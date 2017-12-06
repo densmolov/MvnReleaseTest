@@ -3,7 +3,7 @@
     <groupId>SmolovGroupId</groupId>
     <artifactId>SmolovArtifactId</artifactId>
     <packaging>pom</packaging>
-    <version>1.7</version>
+    <version>1.7-SNAPSHOT</version>
     <name>SmolovArtifactId Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
@@ -21,7 +21,7 @@
         <developerConnection>
             scm:git:https://github.com/densmolov/MvnReleaseTest.git
         </developerConnection>
-        <tag>zazaza</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
