@@ -9,7 +9,8 @@
     <url>http://maven.apache.org</url>
 
     <scm>
-        <developerConnection>scm:git:file://C:/Users/smolovda/IdeaProjects/MvnReleaseTest/pom.xml
+        <developerConnection>
+            scm:git:https://github.com/densmolov/MvnReleaseTest.git
         </developerConnection>
     </scm>
 
