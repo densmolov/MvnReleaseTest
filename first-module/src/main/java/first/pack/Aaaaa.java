@@ -1,4 +1,4 @@
-package com.ololo;
+package first.pack;
 
 public class Aaaaa {
 }
