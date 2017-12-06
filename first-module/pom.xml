@@ -3,12 +3,12 @@
     <parent>
         <artifactId>SmolovArtifactId</artifactId>
         <groupId>SmolovGroupId</groupId>
-        <version>1.6</version>
+        <version>1.6-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>firstModuleArtifactId</artifactId>
-    <version>1.15</version>
+    <version>1.15-SNAPSHOT</version>
 
 
 </project>
