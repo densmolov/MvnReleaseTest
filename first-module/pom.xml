@@ -9,6 +9,6 @@
 
     <artifactId>firstModuleArtifactId</artifactId>
     <version>1.15-SNAPSHOT</version>
-
+    <groupId>firstModuleGroupId</groupId>
 
 </project>

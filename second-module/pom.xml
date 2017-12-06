@@ -9,6 +9,14 @@
 
     <artifactId>secondModuleArtifactId</artifactId>
     <version>2.6-SNAPSHOT</version>
+    <groupId>secondModuleGroupId</groupId>
 
+    <dependencies>
+        <dependency>
+            <groupId>thirdModuleGroupId</groupId>
+            <artifactId>thirdModuleArtifactId</artifactId>
+            <version>4.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
